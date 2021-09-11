@@ -1,5 +1,5 @@
 # Simple CRUD Rest API Using Node.js
-- Create package.json to store dependencies <code>npm init</code>
+- Create package.json to store dependencies <code>npm init</code> and change entery point to app.js 
 - Install all dependencies <code>npm install express mysql body-parser cors --save</code>
   - Express: node.js framework
   - MySQL: database connection
@@ -76,3 +76,5 @@ app.listen(3000, function(){
 ```
 - Run app <code>node app.js</code>
 - Test using postman 
+
+![2021-9-12_0-10-33](https://user-images.githubusercontent.com/55520351/132955850-17365d15-aad7-457b-87ad-9f240e1fed53.PNG)
